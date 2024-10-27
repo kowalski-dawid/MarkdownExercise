@@ -50,3 +50,7 @@ This is a code block:
 
 Weather forecast example: [https://meteo.pl/](https://meteo.pl/)
 
+#### Internal
+
+Link to file example: [additional information](reference.md)
+
