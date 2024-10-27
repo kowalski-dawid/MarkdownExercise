@@ -54,3 +54,34 @@ Weather forecast example: [https://meteo.pl/](https://meteo.pl/)
 
 Link to file example: [additional information](reference.md)
 
+### Images
+
+#### Internal
+
+![Ent](ent420lol69.jpg "Ent")
+
+#### External
+
+![bread](https://debogora.com/data/include/img/news/1671551739.jpg)
+
+## Lists
+
+### Ordered
+
+1. Level one
+2. Level two
+3. Level three
+
+### Unorderly
+
+* Bullet one
+* Bullet two
+* Bullet three
+
+## Tables
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Row 1    | Row 1    | Row 1    |
+| Row 2    | Row 2    | Row 2    |
+| Very long sentence | Very longer sentence | Veriest longest sentence |
