@@ -1,4 +1,24 @@
-# Title
+# Title <!-- omit in toc -->
+
+- [Visual elements](#visual-elements)
+  - [Bold text](#bold-text)
+  - [Italic text](#italic-text)
+  - [Quote](#quote)
+  - [Code and formulas](#code-and-formulas)
+    - [Code phrase](#code-phrase)
+    - [Code block](#code-block)
+- [Linking elements](#linking-elements)
+  - [Links to content](#links-to-content)
+    - [External](#external)
+    - [Internal](#internal)
+  - [Images](#images)
+    - [Internal](#internal-1)
+    - [External](#external-1)
+- [Lists](#lists)
+  - [Ordered](#ordered)
+  - [Unorderly](#unorderly)
+- [Tables](#tables)
+
 
 This is the first paragraph of my file.
 
@@ -80,9 +100,10 @@ Link to file example: [additional information](reference.md)
 
 ## Tables
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Row 1    | Row 1    | Row 1    |
-| Row 2    | Row 2    | Row 2    |
+| Column 1           | Column 2             | Column 3                 |
+| ------------------ | -------------------- | ------------------------ |
+| Row 1              | Row 1                | Row 1                    |
+| Row 2              | Row 2                | Row 2                    |
 | Very long sentence | Very longer sentence | Veriest longest sentence |
 
+Test sentence
