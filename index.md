@@ -85,3 +85,4 @@ Link to file example: [additional information](reference.md)
 | Row 1    | Row 1    | Row 1    |
 | Row 2    | Row 2    | Row 2    |
 | Very long sentence | Very longer sentence | Veriest longest sentence |
+
