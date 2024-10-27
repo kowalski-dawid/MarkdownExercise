@@ -41,3 +41,12 @@ This is a code block:
 
 </data>
 ```
+
+## Linking elements
+
+### Links to content
+
+#### External
+
+Weather forecast example: [https://meteo.pl/](https://meteo.pl/)
+
